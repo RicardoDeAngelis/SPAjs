@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #363333;
-  color: #3c484e;
+  color: #c4cdd1;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -16,7 +16,7 @@ body {
 
 .Header a {
   text-decoration: none;
-  color: #15302C;
+  color: rgb(185, 202, 200);
 }
 
 .Main {
@@ -42,7 +42,7 @@ body {
 
 .Characters-card {
   text-decoration: none;
-  box-shadow: 8px 14px 38px rgba(39,44,49,.06), 1px 3px 8px rgba(39,44,49,.03);
+  box-shadow: 8px 14px 38px rgba(221, 225, 230, 0.06), 1px 3px 8px rgba(39,44,49,.03);
   border-radius: 5px;
   margin: 0 0 20px 0;
   display: block;
@@ -71,7 +71,7 @@ body {
 
 .Characters-item {
   text-decoration: none;
-  box-shadow: 8px 14px 38px rgba(39,44,49,.06), 1px 3px 8px rgba(39,44,49,.03);
+  box-shadow: 8px 14px 38px rgba(169, 170, 164, 0.06), 1px 3px 8px rgba(39,44,49,.03);
   border-radius: 5px;
   margin: 0 0 20px 0;
   display: block;
@@ -95,7 +95,7 @@ body {
 
 .Characters-item a {
   text-decoration: none;
-  color: #026C86;
+  color: rgb(143, 181, 190);
 }
 
 @keyframes fade {
@@ -109,7 +109,7 @@ body {
 
 .Main-loading {
   border: 4px solid #f3f3f3;
-  border-top: 4px solid #3498db;
+  border-top: 4px solid #a9c1d1;
   border-radius: 50%;
   width: 20px;
   height: 20px;
